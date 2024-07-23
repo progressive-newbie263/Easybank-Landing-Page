@@ -9,3 +9,4 @@ researches and a video from an indian coder on youtube really help me a lot : ht
 
 - I learnt a lot from doing this challenge, special thanks to Sadee again. Hope the next time i do a project, i can finally apply frameworks skills into it.
 
+- Last but not least, the model i used to look up for designing is amazingly designed by the goat tediko  https://easybank-tediko.netlify.app/#, he always nailed the challenges of FEM perfectly and i am grateful of it.
